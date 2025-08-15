@@ -107,8 +107,4 @@ pjc-hr-portal/
 
 ---
 
-## 📝 Próximos passos sugeridos
-- Adicionar autenticação JWT.
-- Paginação e filtros no endpoint de candidatos.
-- Testes unitários (JUnit/MockMvc) e CI.
-- Documentação OpenAPI/Swagger com springdoc.
+
