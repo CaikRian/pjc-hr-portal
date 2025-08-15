@@ -97,7 +97,7 @@ pjc-hr-portal/
 
 ---
 
-## ✅ O que este projeto comprova para a vaga
+## ✅ Competências aprimoradas durante a criação do projeto
 - **Front-end**: HTML semântico, CSS responsivo, JS com `fetch` e jQuery.
 - **Back-end/API**: CRUD completo com Spring Boot, JPA/Hibernate e validação.
 - **Banco de dados**: MySQL com mapeamento ORM.
