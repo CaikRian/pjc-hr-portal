@@ -12,7 +12,7 @@ Projeto de portfólio: **Front-end Vanilla (HTML/CSS/JS + Bootstrap)** e **API J
 
 ---
 
-## 🚀 Como rodar (Docker – recomendado)
+## 🚀 Como rodar ( Com Docker)
 Requisitos: Docker Desktop.
 
 ```bash
