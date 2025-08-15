@@ -1,6 +1,6 @@
 # PJC HR Portal — Front-end + API (Java + MySQL)
 
-Projeto de portfólio com **estética clara** e stack diferente dos anteriores: **Front-end Vanilla (HTML/CSS/JS + Bootstrap)** e **API Java Spring Boot** com **MySQL**. Ideal para demonstrar:
+Projeto de portfólio: **Front-end Vanilla (HTML/CSS/JS + Bootstrap)** e **API Java Spring Boot** com **MySQL**. Ideal para demonstrar:
 - Domínio de **HTML, CSS e JavaScript** (sem frameworks no front).
 - **Criação e manutenção de APIs** REST (Java/Spring Boot).
 - **MySQL** com JPA e migração automática.
